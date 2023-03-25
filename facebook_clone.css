@@ -1,0 +1,119 @@
+body{
+    background:#E8EBF3;
+    margin: 0px;
+}
+/*----Header /Satrt------*/
+.header{
+    width: 100%;
+    height:100px;
+    background-color:#3B5998;
+    border-bottom: 1px solid #000;
+    display: block;
+}
+
+.header .logo{
+    padding-left: 300px;
+    padding-top:15px;
+    float: left;
+}
+.header .id{
+    float: right;
+    padding-right:50px;
+    padding-top:8px;
+}
+.id button{
+    width:75px;
+	height:28px;
+	background:#4267B2;
+	color:white;
+	border:1px solid #29487D;
+	border-radius:2px
+}
+.id button:hover{
+    background-color: #29487D;
+}
+/*----Header /End------*/
+
+/*----Content,Data filler /Start------*/
+.container{
+	width:100%;
+	height:700px;	
+}
+
+.container .abt_fb{
+    color:#325998;
+	font-size:18px;
+	font-family:Arial;
+	padding-left:0px;
+	padding-top:50px;
+	width:50%px;
+	float:left;
+    padding:6px;
+}
+
+.container .data{
+    color:#323232;
+	font-size:18px;
+	font-family:Arial;
+	padding-right:100px;
+	padding-top:25px;
+	width:50%px;
+	float:right;
+    padding-right:6px;
+
+
+}
+
+.container .data p{
+	margin-top:-14px;
+}
+
+.container .data .data1{
+    float:left;
+	width:170px;
+	margin-right:10px;
+	border:1px solid #999;
+	border-radius:4px;
+	height:30px;
+	padding:3px;
+	font-size:18px;
+    margin: 5px;
+}
+.container .data .data2{
+	width:350px;
+	margin-right:10px;
+	border:1px solid #999;
+	border-radius:4px;
+	height:30px;
+	padding:3px;
+	font-size:18px;
+    margin: 5px;
+}
+.container .data .data3 .data4{
+   margin: 5px;
+   padding: 5px;
+}
+.container small{
+	font-size:10px;
+	font-family:verdana;
+}
+.container .data button{
+	margin-top:8px;
+	width:50%;
+	height:35px;
+	background:#68A253;
+	color:white;
+	border:1px solid #3B6E22;
+	border-radius:4px;
+	font-size:19px;
+	padding:5px;
+}
+.container .data button:hover{
+    background-color: #3B6E22;
+}
+
+/*----Content,Data filler /Start------*/
+
+
+
+
